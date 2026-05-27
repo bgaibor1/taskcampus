@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "titulo": "Finalizar documentación de TaskCampus",
+        "descripcion": "Subir evidencias a GitHub, unir la rama del frontend con main y armar el README final del proyecto.",
+        "asignatura": "Programación Móvil",
+        "fecha_entrega": "2026-05-27",
+        "prioridad": "alta",
+        "estado": "en proceso"
+    },
+    {
+        "id": 2,
+        "titulo": "Informe de prácticas laborales",
+        "descripcion": "Redactar un informe corto y claro sobre la revisión del SO, mantenimiento preventivo y análisis de rendimiento del sistema.",
+        "asignatura": "Sistemas Operativos 3",
+        "fecha_entrega": "2026-05-30",
+        "prioridad": "media",
+        "estado": "pendiente"
+    },
+    {
+        "id": 3,
+        "titulo": "Presentación de Cloud Serverless",
+        "descripcion": "Preparar diapositivas comparativas sobre presupuestos y métricas entre AWS CloudWatch y Azure Monitor.",
+        "asignatura": "Seguridad de Redes",
+        "fecha_entrega": "2026-05-20",
+        "prioridad": "media",
+        "estado": "finalizada"
+    },
+    {
+        "id": 4,
+        "titulo": "Laboratorio Dual Stack",
+        "descripcion": "Configurar topología con IPv4 e IPv6 usando RIPv2 y RIPng. Revisar configuración de puertos en ISP_LAN.",
+        "asignatura": "Tecnología de Conmutación",
+        "fecha_entrega": "2026-06-02",
+        "prioridad": "alta",
+        "estado": "pendiente"
+    },
+    {
+        "id": 5,
+        "titulo": "Mantenimiento de hardware",
+        "descripcion": "Desensamblaje, limpieza interna, reemplazo de pasta térmica y revisión del cable flex de la pantalla.",
+        "asignatura": "Proyectos Personales",
+        "fecha_entrega": "2026-06-05",
+        "prioridad": "baja",
+        "estado": "en proceso"
+    }
+]
